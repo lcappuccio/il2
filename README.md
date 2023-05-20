@@ -34,10 +34,6 @@ Version: 5.101 (29/03/2023)
 [Specifications](planes/bf109f4.md)  
 ![bf109f4](images/planes/bf109f4.png)  
 
-### Bf 109 G-14
-[Specifications](planes/bf109g14.md)  
-![bf109g14](images/planes/bf109g14.png)  
-
 ### Bf 109 G-2
 [Specifications](planes/bf109g2.md)  
 ![bf109g2](images/planes/bf109g2.png)  
@@ -53,6 +49,10 @@ Version: 5.101 (29/03/2023)
 ### Bf 109 G-6 Late
 [Specifications](planes/bf109g6late.md)  
 ![bf109g6late](images/planes/bf109g6late.png)  
+
+### Bf 109 G-14
+[Specifications](planes/bf109g14.md)  
+![bf109g14](images/planes/bf109g14.png)  
 
 ### Bf 109 K-4
 [Specifications](planes/bf109k4.md)  
@@ -138,17 +138,17 @@ Version: 5.101 (29/03/2023)
 [Specifications](planes/ju88c6.md)  
 ![ju88c6](images/planes/ju88c6.png)  
 
-### La-5FN ser.2
-[Specifications](planes/la5fns2.md)  
-![la5fns2](images/planes/la5fns2.png)  
-
-### La-5 ser.8
-[Specifications](planes/la5s8.md)  
-![la5s8](images/planes/la5s8.png)  
-
 ### LaGG-3 ser.29
 [Specifications](planes/lagg3s29.md)  
 ![lagg3s29](images/planes/lagg3s29.png)  
+
+### La-5 ser.8
+[Specifications](planes/la5s8.md)  
+![la5s8](images/planes/la5s8.png) 
+
+### La-5FN ser.2
+[Specifications](planes/la5fns2.md)  
+![la5fns2](images/planes/la5fns2.png)  
 
 ### MC.202 ser.VIII
 [Specifications](planes/mc202s8.md)  
@@ -206,13 +206,13 @@ Version: 5.101 (29/03/2023)
 [Specifications](planes/pe2s87.md)  
 ![pe2s87](images/planes/pe2s87.png)  
 
-### Spitfire Mk.IXe
-[Specifications](planes/spitfiremkixe.md)  
-![spitfiremkixe](images/planes/spitfiremkixe.png)  
-
 ### Spitfire Mk.VB
 [Specifications](planes/spitfiremkvb.md)  
 ![spitfiremkvb](images/planes/spitfiremkvb.png)  
+
+### Spitfire Mk.IXe
+[Specifications](planes/spitfiremkixe.md)  
+![spitfiremkixe](images/planes/spitfiremkixe.png)  
 
 ### Spitfire Mk.XIV
 [Specifications](planes/spitfiremkxiv.md)  
@@ -234,13 +234,13 @@ Version: 5.101 (29/03/2023)
 [Specifications](planes/u2vs.md)  
 ![u2vs](images/planes/u2vs.png)  
 
-### Yak-1b ser.127
-[Specifications](planes/yak1s127.md)  
-![yak1s127](images/planes/yak1s127.png)  
-
 ### Yak-1 ser.69
 [Specifications](planes/yak1s69.md)  
 ![yak1s69](images/planes/yak1s69.png)  
+
+### Yak-1b ser.127
+[Specifications](planes/yak1s127.md)  
+![yak1s127](images/planes/yak1s127.png)  
 
 ### Yak-7B series 36
 [Specifications](planes/yak7bs36.md)  
