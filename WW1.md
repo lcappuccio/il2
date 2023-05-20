@@ -1,6 +1,6 @@
 # IL-2: Sturmovik Great Battles: WW1 Vehicles
 
-[View on GitHub Pages](https://aergistal.github.io/il2/)  
+[View on GitHub Pages](https://lcappuccio.github.io/il2/)  
 
 Version: 5.101 (29/03/2023)  
 ## WWI Airplanes
