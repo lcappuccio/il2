@@ -90,13 +90,13 @@ Version: 5.101 (29/03/2023)
 [Specifications](planes/fw190d9.md)  
 ![fw190d9](images/planes/fw190d9.png)  
 
-### He 111 H-16
-[Specifications](planes/he111h16.md)  
-![he111h16](images/planes/he111h16.png)  
-
 ### He 111 H-6
 [Specifications](planes/he111h6.md)  
 ![he111h6](images/planes/he111h6.png)  
+
+### He 111 H-16
+[Specifications](planes/he111h16.md)  
+![he111h16](images/planes/he111h16.png)  
 
 ### Hs 129 B-2
 [Specifications](planes/hs129b2.md)  
